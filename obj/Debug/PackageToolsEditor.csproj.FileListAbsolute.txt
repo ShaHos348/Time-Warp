@@ -1,0 +1,2 @@
+E:\Video Game Design\obj\Debug\PackageToolsEditor.csproj.AssemblyReference.cache
+E:\Video Game Design\obj\Debug\PackageToolsEditor.csproj.CoreCompileInputs.cache

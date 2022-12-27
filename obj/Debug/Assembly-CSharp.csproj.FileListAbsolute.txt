@@ -1,0 +1,4 @@
+E:\Video Game Design Demo\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+E:\Video Game Design Demo\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\Video Game Design\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+E:\Video Game Design\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

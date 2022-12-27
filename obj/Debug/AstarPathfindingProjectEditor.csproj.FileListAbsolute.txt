@@ -1,0 +1,2 @@
+E:\Video Game Design\obj\Debug\AstarPathfindingProjectEditor.csproj.AssemblyReference.cache
+E:\Video Game Design\obj\Debug\AstarPathfindingProjectEditor.csproj.CoreCompileInputs.cache
